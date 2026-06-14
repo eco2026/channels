@@ -60,3 +60,24 @@ https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b8000000_t64
 #EXTINF:-1,قناة الرسالة
 https://games1.elahmad.xyz/tv799_www.elahmad.com_alresalah/index.m3u8?token=a54b7fcce5f32527350350de3c2f89862dc326d5-f4d53b1e3e7227192861100311abdb32-1781400182-1781398382
 
+#EXTINF:-1,البث ال للقنوات والإذاعات | تابع
+https://vod.kwikmotion.com/qmcvod/smil:itwfcdn/qmc/2655589-3E0NX4Q88B80J9E.smil/playlist.m3u8
+
+#EXTINF:-1,البث ال للقنوات والإذاعات | تابع
+https://vod.kwikmotion.com/qmcvod/smil:itwfcdn/qmc/2655589-3E0NX4Q88B80J9E.smil/index-f1-v1-a1.m3u8
+
+#EXTINF:-1,البث ال للقنوات والإذاعات | تابع
+https://vod.kwikmotion.com/qmcvod/smil:itwfcdn/qmc/2655589-3E0NX4Q88B80J9E.smil/index-f3-v1-a1.m3u8
+
+#EXTINF:-1,البث ال للقنوات والإذاعات | تابع
+https://vod.kwikmotion.com/qmcvod/smil:itwfcdn/qmc/2655589-3E0NX4Q88B80J9E.smil/index-f4-v1-a1.m3u8
+
+#EXTINF:-1,البث ال للقنوات والإذاعات | تابع
+https://vod.kwikmotion.com/qmcvod/smil:itwfcdn/qmc/2655589-3E0NX4Q88B80J9E.smil/index-f5-v1-a1.m3u8
+
+#EXTINF:-1,قناة جيم  للجوال
+http://jawaltv.com/player/?id=https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/playlist_dvr.m3u8
+
+#EXTINF:-1,قناة جيم  للجوال
+https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/playlist_dvr.m3u8
+
