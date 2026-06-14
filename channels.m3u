@@ -1,1 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1,قناة المغربية   شاهد قناة المغربية
+https://token.easybroadcast.io/all?url=https%3A%2F%2Fcdn.live.easybroadcast.io%2Fabr_corp%2F73_almaghribia_83tz85q%2Fplaylist_dvr.m3u8
+
+#EXTINF:-1,قناة المغربية   شاهد قناة المغربية
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8?token=kBTTQVHu386D3MWxEuuXdlg_GblnP_cFv_suRj1HcWw&expires=1781407978&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q
+
+#EXTINF:-1,قناة المغربية   شاهد قناة المغربية
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8?token=kBTTQVHu386D3MWxEuuXdlg_GblnP_cFv_suRj1HcWw&expires=1781407978&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q
+
+#EXTINF:-1,قناة المغربية   شاهد قناة المغربية
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_240p/chunks_dvr.m3u8?token=kBTTQVHu386D3MWxEuuXdlg_GblnP_cFv_suRj1HcWw&expires=1781407978&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q
 
