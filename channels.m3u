@@ -18,3 +18,30 @@ https://www.ipslow.com/hls/kass_elahmad_5.php/https://liveeu-gcp.alkassdigital.n
 #EXTINF:-1,Al Kass Two HD | قناة الكأس
 https://www.ipslow.com/hls/kass_elahmad_5.php/https://liveeu-gcp.alkassdigital.net/alkass2-p/20260609T164505Z/mux_video_240p_ts/index-1.m3u8
 
+#EXTINF:-1,Al Kass Two HD | قناة الكأس
+https://www.ipslow.com/hls/kass_elahmad_5.php/https://liveeu-gcp.alkassdigital.net/alkass2-p/20260609T164505Z/mux_video_360p_ts/index-1.m3u8
+
+#EXTINF:-1,Al Kass Two HD | قناة الكأس
+https://www.ipslow.com/hls/kass_elahmad_5.php/https://liveeu-gcp.alkassdigital.net/alkass2-p/20260609T164505Z/mux_video_480p_ts/index-1.m3u8
+
+#EXTINF:-1,تلفزتي الة
+https://raw.githubusercontent.com/gmswf/hls/main/master.m3u8
+
+#EXTINF:-1,تلفزتي الة
+https://raw.githubusercontent.com/gmswf/hls/main/0.m3u8
+
+#EXTINF:-1,Watch Channel Al Rayyan2 1   Mobile | قنوات عربية
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8?v=694cbca2
+
+#EXTINF:-1,Watch Channel Al Rayyan2 1   Mobile | قنوات عربية
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
+
+#EXTINF:-1,Watch Funoon
+https://games1.elahmad.xyz/tv799_www.elahmad.com_funoon/index.m3u8?token=28856abc93a50286632bd34cfae69ce3edb6de28-97dbcf35a112791f5f6cc11a197ffaeb-1781399841-1781398041
+
+#EXTINF:-1,Watch Channel Kkids 1   Mobile | قنوات عربية
+https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+
+#EXTINF:-1,Watch Channel Kkids 1   Mobile | قنوات عربية
+https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8
+
