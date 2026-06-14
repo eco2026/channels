@@ -1,1 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1,IP Pro Dashboard | احترافي متجاوب
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/chunklist_w765595770_b3128000_sleng.m3u8
+
+#EXTINF:-1,IP Pro Dashboard | احترافي متجاوب
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/chunklist_w765595770_b578000_sleng.m3u8
+
+#EXTINF:-1,IP Pro Dashboard | احترافي متجاوب
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/chunklist_w765595770_b1028000_sleng.m3u8
+
+#EXTINF:-1,قناة السنة النبوية – البث ال
+http://dagav.com/player/?id=http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8.shaka
+
+#EXTINF:-1,قناة السنة النبوية – البث ال
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+
+#EXTINF:-1,IQRA  BANGLA   IQRA  ONLINE
+http://dagav.com/player/?id=https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv4/playlist/1.m3u8
+
+#EXTINF:-1,IQRA  BANGLA   IQRA  ONLINE
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv4/playlist/1.m3u8
 
