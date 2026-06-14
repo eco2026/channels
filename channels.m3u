@@ -12,3 +12,51 @@ https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almagh
 #EXTINF:-1,قناة المغربية   شاهد قناة المغربية
 https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_240p/chunks_dvr.m3u8?token=kBTTQVHu386D3MWxEuuXdlg_GblnP_cFv_suRj1HcWw&expires=1781407978&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q
 
+#EXTINF:-1,IP Pro Dashboard | احترافي متجاوب
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
+
+#EXTINF:-1,IP Pro Dashboard | احترافي متجاوب
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_360p/chunks_dvr.m3u8
+
+#EXTINF:-1,IP Pro Dashboard | احترافي متجاوب
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_240p/chunks_dvr.m3u8
+
+#EXTINF:-1,Oman Sport   قناة عمان الرياضية الرياضية بث ال
+http://dagav.com/player/?id=https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8.shaka
+
+#EXTINF:-1,Oman Sport   قناة عمان الرياضية الرياضية بث ال
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1,Oman Sport   قناة عمان الرياضية الرياضية بث ال
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1,Oman Sport   قناة عمان الرياضية الرياضية بث ال
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
+
+#EXTINF:-1,Alkass   قناة الكأس  ٍ
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1,Alkass   قناة الكأس  ٍ
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1998320220&e=pa&n=0052642972431506&aid=axJWTrOeEeSWKw4AfQhyIQ&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=7&emi=1796px5q3qot&et=classic&i=1&lid=5yofiq1x28d8&lsa=read&mt=1&pbd=1&pbr=1&pgi=1mrau3n1f6jo&ph=0&pii=0&pl=559&plc=1&pli=niwlxr1rhhos&pp=hlsjs&prc=1&ps=4&pss=1&pt=Video%20Player&pu=http%3A%2F%2Fdagav.com%2F&pv=8.34.5&pyc=0&s=0&sdk=0&stc=1&stpe=0&t=Video%20Stream&tv=4.0.15&vb=1&vi=0.88&vl=90&wd=994&ab=0&bwe=4836&cme=0&flc=0&lng=en&mu=https%3A%2F%2Fliveeu-gcp.alkassdigital.net%2Falkass1-p%2Fmain.m3u8&pd=2&plng=en&pni=0&pr=2&tb=0&vd=0&sa=1781405011986
+
+#EXTINF:-1,Alkass   قناة الكأس  ٍ
+https://prd.jwpltx.com/v1/error/ping.gif?h=-1689537812&e=err&n=9028682007992950&aid=axJWTrOeEeSWKw4AfQhyIQ&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=7&emi=1796px5q3qot&et=classic&i=1&lid=5yofiq1x28d8&lsa=read&mt=1&pbd=1&pbr=1&pgi=1mrau3n1f6jo&ph=0&pii=0&pl=559&plc=1&pli=niwlxr1rhhos&pp=hlsjs&prc=1&ps=4&pss=1&pt=Video%20Player&pu=http%3A%2F%2Fdagav.com%2F&pv=8.34.5&pyc=0&s=0&sdk=0&stc=1&stpe=0&t=Video%20Stream&tv=4.0.15&vb=1&vi=0.88&vl=90&wd=994&cme=0&erc=232011&mu=https%3A%2F%2Fliveeu-gcp.alkassdigital.net%2Falkass1-p%2Fmain.m3u8&sa=1781405012504
+
+#EXTINF:-1,Alkass   قناة الكأس  ٍ
+http://dagav.com/player/?id=https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1,Alkass   قناة الكأس  ٍ
+https://alkass-tv.alwadifaysal.workers.dev/liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1,Alkass   قناة الكأس  ٍ
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1963167287&e=pa&n=6104395578873990&aid=axJWTrOeEeSWKw4AfQhyIQ&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=7&emi=axgmjsmjjl6h&et=classic&i=1&lid=5yofiq1x28d8&lsa=read&mt=1&pbd=1&pbr=1&pgi=1mrau3n1f6jo&ph=0&pii=0&pl=559&plc=1&pli=1eqvq0hs8q8g&pp=hlsjs&prc=1&ps=4&pss=1&pt=Video%20Player&pu=http%3A%2F%2Fdagav.com%2F&pv=8.34.5&pyc=0&s=0&sdk=0&stc=2&stpe=0&t=Video%20Stream&tv=4.0.15&vb=1&vi=0.88&vl=90&wd=994&ab=0&bwe=4836&cme=0&flc=0&lng=en&mu=https%3A%2F%2Falkass-tv.alwadifaysal.workers.dev%2Fliveeu-gcp.alkassdigital.net%2Falkass1-p%2Fmain.m3u8&pd=2&plng=en&pni=0&pr=2&tb=0&vd=0&sa=1781405015531
+
+#EXTINF:-1,Alkass   قناة الكأس  ٍ
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=82319918&e=pa&n=2535048407483161&aid=axJWTrOeEeSWKw4AfQhyIQ&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=7&emi=y7bsjzlj95mt&et=classic&i=1&lid=5yofiq1x28d8&lsa=read&mt=1&pbd=1&pbr=1&pgi=1po25r31w1ki&ph=0&pii=0&pl=559&plc=1&pli=1xt8fmdusfq5&pp=hlsjs&prc=1&ps=4&pss=1&pt=Video%20Player&pu=http%3A%2F%2Fdagav.com%2F&pv=8.34.5&pyc=0&s=0&sdk=0&stc=1&stpe=0&t=Video%20Stream&tv=4.0.15&vb=1&vi=0.88&vl=90&wd=994&ab=0&bwe=4836&cme=0&flc=0&lng=en&mu=https%3A%2F%2Fliveeu-gcp.alkassdigital.net%2Falkass1-p%2Fmain.m3u8&pd=2&plng=en&pni=0&pr=2&tb=0&vd=0&sa=1781405018542
+
+#EXTINF:-1,Alkass   قناة الكأس  ٍ
+https://prd.jwpltx.com/v1/error/ping.gif?h=-1982987003&e=err&n=4709646809221336&aid=axJWTrOeEeSWKw4AfQhyIQ&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=7&emi=y7bsjzlj95mt&et=classic&i=1&lid=5yofiq1x28d8&lsa=read&mt=1&pbd=1&pbr=1&pgi=1po25r31w1ki&ph=0&pii=0&pl=559&plc=1&pli=1xt8fmdusfq5&pp=hlsjs&prc=1&ps=4&pss=1&pt=Video%20Player&pu=http%3A%2F%2Fdagav.com%2F&pv=8.34.5&pyc=0&s=0&sdk=0&stc=1&stpe=0&t=Video%20Stream&tv=4.0.15&vb=1&vi=0.88&vl=90&wd=994&cme=0&erc=232011&mu=https%3A%2F%2Fliveeu-gcp.alkassdigital.net%2Falkass1-p%2Fmain.m3u8&sa=1781405018651
+
+#EXTINF:-1,Shoof    قناة شوف لايف بث حي
+http://azrogo.com/pyr/?id=https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8.tara
+
