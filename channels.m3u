@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1,تلفزيون ج الاطفال
+https://games1.elahmad.xyz/tv799_www.elahmad.com_jeem/index.m3u8?token=0a1b9526a45fd821a84d8fe21e352189153502c5-dd057431141a4bd3315c74688e19d47d-1781399443-1781397643
+
+#EXTINF:-1,قناة براعم  Baraem
+https://games1.elahmad.xyz/tv799_www.elahmad.com_baraem1/index.m3u8?token=56a0dbd2953fd67ca710465a07f02c1a4c25743b-5773d28d707e5bbab3c7199036904713-1781399448-1781397648
+
+#EXTINF:-1,Watch Channel Baraem   Mobile | قنوات عربية
+https://games1.elahmad.xyz/tv799_www.elahmad.com_baraem1/index.m3u8?token=199dd1045e03c865bb7f7b5f77046b2e4abfe4e4-e96cc68a2f03c9b06219dacc5382706e-1781399472-1781397672
+
+#EXTINF:-1,Al Kass Two HD | قناة الكأس
+https://www.ipslow.com/hls/kass_elahmad_5.php/https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1,Al Kass Two HD | قناة الكأس
+https://www.ipslow.com/hls/kass_elahmad_5.php/https://liveeu-gcp.alkassdigital.net/alkass2-p/20260609T164505Z/mux_video_720p_ts/index-1.m3u8
+
+#EXTINF:-1,Al Kass Two HD | قناة الكأس
+https://www.ipslow.com/hls/kass_elahmad_5.php/https://liveeu-gcp.alkassdigital.net/alkass2-p/20260609T164505Z/mux_video_240p_ts/index-1.m3u8
+
